@@ -1,1 +1,1 @@
-print('gota2')
+print('Dota2')
